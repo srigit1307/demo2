@@ -4,4 +4,8 @@ this 2.
 
 this 3.
 
+<<<<<<< HEAD
 i hope this is not that a problem!
+=======
+This is bound to cause trouble!!
+>>>>>>> very-bad
